@@ -1,6 +1,6 @@
 {
   "name": "pls-approved",
-  "owner": { "name": "PLS IT", "email": "" },
+  "owner": { "name": "PLS 3rd Learning", "email": "" },
   "plugins": [
     {
       "name": "superpowers",
