@@ -5,10 +5,11 @@
     {
       "name": "superpowers",
       "source": {
-        "source": "github",
-        "repo": "obra/superpowers",
-        "ref": "v5.0.7"
-      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/obra/superpowers.git",
+        "sha": "1f20bef3f59b85ad7b52718f822e37c4478a3ff5"
+      },        
       "description": "Skills framework: TDD, debugging, brainstorming workflows"
     }
   ]
