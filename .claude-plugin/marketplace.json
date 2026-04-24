@@ -1,0 +1,15 @@
+{
+  "name": "pls-approved",
+  "owner": { "name": "PLS 3rd Learning", "email": "" },
+  "plugins": [
+    {
+      "name": "superpowers",
+      "source": {
+        "source": "github",
+        "repo": "obra/superpowers",
+        "ref": "v5.0.7"
+      },
+      "description": "Skills framework: TDD, debugging, brainstorming workflows"
+    }
+  ]
+}
